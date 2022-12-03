@@ -9,3 +9,7 @@ pin: true
 ---
 
 # BluestarPlugin
+
+Bluestar系列插件
+
+- [BluestarCraft](https://www.bluestarmc.top/posts/BluestarCraft/)
