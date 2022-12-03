@@ -1,5 +1,5 @@
 ---
-title: 公告
+title: BluestarPlugin
 date: 2022-12-03 22:00:00 +0800
 categories: [BluestarPlugin]
 tags: [插件]
