@@ -1,7 +1,7 @@
 ---
 title: 开始Start
 date: 2022-05-05 10:00:00 +0800
-categories: [BluestarPlugin,BluestarCraft]
+categories: []
 tags: []
 author: Lanzhi
 math: true
