@@ -1,6 +1,6 @@
 ---
 title: BluestarPlugin
-date: 2022-12-03 22:00:00 +0800
+date: 0001-01-01 10:00:02 +0800
 categories: [BluestarPlugin]
 tags: [插件]
 author: Lanzhi
