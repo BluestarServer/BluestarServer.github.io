@@ -1,5 +1,5 @@
 ---
-title: BluestarCraft
+title: BluestarBot
 date: 2022-12-16 10:00:00 +0800
 categories: [BluestarPlugin]
 tags: [插件]
@@ -11,7 +11,7 @@ Welcome to the BluestarBot wiki!
 
 > 说明: 此插件本身仅是API,本身具有的实际功能有限。其他插件可以基于此插件方便的进行QQ操作
 
-{: .prompt-info}
+{: .prompt-info }
 
 目录
 
