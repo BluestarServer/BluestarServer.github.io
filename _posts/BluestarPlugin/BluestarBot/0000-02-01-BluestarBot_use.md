@@ -1,6 +1,6 @@
 ---
 title: 服主手册
-date: 2022-05-05 10:00:00 +0800
+date: 2022-12-16 10:00:00 +0800
 categories: []
 tags: []
 author: Lanzhi
@@ -8,7 +8,6 @@ math: true
 ---
 
 > 此插件要求Java版本不低于$Java9$
-
 {: .prompt-tip }
 
 ## 使用方法
@@ -20,7 +19,6 @@ math: true
 - `重启服务器`或`reload`或使用`plugman`
 
 > 因为插件的加载原因,此插件可以热加载,但是热卸载后可能出错。不应该尝试热卸载/重载
-
 {: .prompt-warning }
 
 ### 一些使用方法:

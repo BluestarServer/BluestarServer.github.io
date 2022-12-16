@@ -10,7 +10,6 @@ math: true
 Welcome to the BluestarBot wiki!
 
 > 说明: 此插件本身仅是API,本身具有的实际功能有限。其他插件可以基于此插件方便的进行QQ操作
-
 {: .prompt-info }
 
 目录
