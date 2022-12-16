@@ -13,3 +13,4 @@ pin: true
 Bluestar系列插件
 
 - [BluestarCraft](https://www.bluestarmc.top/posts/BluestarCraft/)
+- [BluestarBot](https://www.bluestarmc.top/posts/BluestarBot/)
