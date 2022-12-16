@@ -37,7 +37,7 @@ allprojects
     repositories
     {
     	maven { url 'https://raw.githubusercontent.com/lanzhi6/maven-repository/main' }
-	}
+    }
 }
 ```
 
@@ -63,8 +63,7 @@ dependencies
 监听QQ内的事件请查看[me.lanzhi.bluestarbot.api.event](https://bluestarbot.lanzhi.me/javadoc/me/lanzhi/bluestarbot/api/event/package-summary.html)
 
 > 所有事件都是[BluestarBotEvent](https://bluestarbot.lanzhi.me/javadoc/me/lanzhi/bluestarbot/api/event/BluestarBotEvent.html)的子类
->
-> {: .prompt-tip }
+{: .prompt-tip }
 
 > 注意: 事件包中的接口事件,例如[被动接收消息事件MessageReceivedEvent](https://bluestarbot.lanzhi.me/javadoc/me/lanzhi/bluestarbot/api/event/MessageReceivedEvent.html),这些事件是接口,因为`Bukkit`的事件系统的原因,接口无法被监听.所以需要直接监听[BluestarBotEvent](https://bluestarbot.lanzhi.me/javadoc/me/lanzhi/bluestarbot/api/event/BluestarBotEvent.html)
 >
@@ -85,8 +84,7 @@ dependencies
 >     }
 > }
 > ```
->
-> {: .propmt-warning}
+{: .prompt-warning }
 
 ### 一些代码示例
 
