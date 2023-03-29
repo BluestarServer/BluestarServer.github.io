@@ -6,4 +6,4 @@ order: 4
 
 ### 蓝色之星官网
 
-由 [蓝稚](https://www.lanzhi.me) 维护
+由 [蓝稚](https://www.nullaqua.me) 维护
